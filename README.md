@@ -2,21 +2,6 @@
 Este repositório contém a Entrega 01 dos desafios propostos no Rocket Lab Dados 2025.2.
 
 
-## 🗂 Estrutura do Projeto
-
--A estrutura de pastas e arquivos foi mantida conforme especificado no desafio:
-
-└─ Atividade01 - Pyspark/
-   
-   ├─ dados/
-     │  ├─ fut_players_data.csv
-     │  ├─ metal_bands.csv
-     │  └─ pokemnon_data.csv
-  
-   └─ Atividade1_PySpark.ipynb
-
----
-
 ## 🚀 Tecnologias Utilizadas
 
 -  **Python com PySpark**
