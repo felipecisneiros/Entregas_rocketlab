@@ -1,5 +1,6 @@
-# Entrega 01 - Rocket Lab Dados 2025.2
-Este repositório contém a Entrega 01 dos desafios propostos no Rocket Lab Dados 2025.2.
+# Entregas - Rocket Lab Dados 2025.2
+Este repositório contém as entregas dos desafios propostos no Rocket Lab Dados 2025.2.
+Ele será utilizado para armazenar e versionar todas as entregas do bootcamp Rocket Lab Dados 2025.2, garantindo organização e rastreabilidade do desenvolvimento ao longo do curso.
 
 
 ## 🚀 Tecnologias Utilizadas
@@ -23,6 +24,6 @@ Este repositório contém a Entrega 01 dos desafios propostos no Rocket Lab Dado
 
 ## 📊 Objetivo
 
--  **Análise e processamento de dados utilizando PySpark conforme os desafios propostos no bootcamp Rocket Lab Dados 2025.2.**
+-  **Aprender sobre Engenharia de Dados e conseguir entrar na Visagio ao fim do Rocket Lab**
 
 
